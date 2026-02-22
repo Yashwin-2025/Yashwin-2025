@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Yashwin S
 
-**🚀 AI Backend Engineer** — Building production RAG, LLM systems & AI agents
+**🚀 AI and Backend Engineer** — Building production RAG, LLM systems & AI agents
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Yashwin-2025&color=blueviolet&style=flat-square)](https://github.com/Yashwin-2025)
 [![GitHub followers](https://img.shields.io/github/followers/Yashwin-2025?style=social)](https://github.com/Yashwin-2025)
