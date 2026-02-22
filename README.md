@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!# 👋 Hey there! I'm Yashwin S
+# 👋 Hey there! I'm Yashwin S
 
 **🚀 AI Backend Engineer** — Building production RAG, LLM systems & AI agents
 
@@ -26,10 +24,15 @@
 
 **AI/ML**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-1C1C1C?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-F89939?style=flat-square&color=F89939&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![vLLM](https://img.shields.io/badge/-vLLM-1C1C1C?style=flat-square)
-RAG · FastMCP · OpenRouter · Milvus · pgvector · Letta
+![vLLM](https://img.shields.io/badge/-vLLM-8B5CF6?style=flat-square&color=8B5CF6&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-0D9488?style=flat-square&color=0D9488&logoColor=white)
+![FastMCP](https://img.shields.io/badge/-FastMCP-2563EB?style=flat-square&color=2563EB&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-6366F1?style=flat-square&color=6366F1&logoColor=white)
+![Milvus](https://img.shields.io/badge/-Milvus-059669?style=flat-square&color=059669&logo=milvus&logoColor=white)
+![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Letta](https://img.shields.io/badge/-Letta-E11D48?style=flat-square&color=E11D48&logoColor=white)
 
 **Backend & Cloud**
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -39,7 +42,8 @@ RAG · FastMCP · OpenRouter · Milvus · pgvector · Letta
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-Keycloak · CI/CD
+![Keycloak](https://img.shields.io/badge/-Keycloak-BB432C?style=flat-square&color=BB432C&logo=keycloak&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-64748B?style=flat-square&color=64748B&logoColor=white)
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -50,19 +54,7 @@ Keycloak · CI/CD
 
 ## 📊 My GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashwin-2025&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashwin-2025&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwin-2025&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Yashwin-2025&theme=radical&no-frame=true&no-bg=true&column=7)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashwin-2025&theme=react-dark&hide_border=true)
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashwin-2025&theme=github-dark&hide_border=true)
 
 ---
 
