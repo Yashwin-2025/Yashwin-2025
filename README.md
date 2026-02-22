@@ -11,12 +11,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science** @ PES University, Bengaluru (CGPA: 9.08)
-- 🔭 Working on **RAG**, **LlamaIndex**, **FastMCP**, **OpenAI Agents**, **vLLM**, **multimodal ingestion**
-- 🌱 Exploring **vector DBs** (Milvus, pgvector), **LLM deployment**, and **agentic workflows**
-- 🛠️ Building with **Python**, **FastAPI**, and the modern AI stack
-- 📄 **Publications:** Pothole detection (ACN'23), Enhancing LLM with CA knowledge (IEEE IC_ASET 2025)
-- ⚡ Fun fact: Love chatting about embeddings, RAG, and agentic systems
+- 🎓 **B.Tech CSE** @ PES University, Bengaluru · CGPA 9.08
+- 🔭 **Building:** RAG, LlamaIndex, FastMCP, OpenAI Agents, vLLM, multimodal pipelines
+- 🌱 **Exploring:** vector DBs (Milvus, pgvector), LLM deployment, agentic workflows
+- 📊 **Into Spark & Databricks:** distributed compute, Delta Lake, MLflow, data pipelines
+- 🔬 **Researching AI:** deep learning, LLMs, agents, retrieval & reasoning
+- 🛠️ **Stack:** Python, FastAPI, and the modern AI/ML ecosystem
+- 📄 **Publications:** [Pothole detection (ACN&#39;23)](https://link.springer.com/chapter/10.1007/978-981-97-2004-0_34) · Enhancing LLM with CA knowledge (IEEE IC_ASET 2025)
+- ⚡ **Fun fact:** Love chatting about **RAG**, **MCP**, **agents**, **tool use**, **multimodal LLMs**, **evals**, and open-source models — always curious what's next!!!
 
 ---
 
@@ -44,6 +46,9 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/-Keycloak-BB432C?style=flat-square&color=BB432C&logo=keycloak&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-64748B?style=flat-square&color=64748B&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FC9700?style=flat-square&color=FC9700&logo=databricks&logoColor=white)
+![Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&color=E25A1C&logo=apachespark&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-0F766E?style=flat-square&color=0F766E&logoColor=white)
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
