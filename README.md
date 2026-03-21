@@ -18,7 +18,7 @@
 - 🔬 **Researching AI:** deep learning, LLMs, agents, retrieval & reasoning
 - 🛠️ **Stack:** Python, FastAPI, and the modern AI/ML ecosystem
 - 📄 **Publications:** [Pothole detection (ACN&#39;23)](https://link.springer.com/chapter/10.1007/978-981-97-2004-0_34) · Enhancing LLM with CA knowledge (IEEE IC_ASET 2025)
-- ⚡ **Fun fact:** Love chatting about **RAG**, **MCP**, **agents**, **tool use**, **multimodal LLMs**, **evals**, and open-source models — always curious what's next!!!
+
 
 ---
 
